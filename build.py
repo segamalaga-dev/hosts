@@ -10,6 +10,7 @@ from pathlib import Path
 import re
 import shutil
 import subprocess
+import sys
 import tempfile
 
 
@@ -19,7 +20,6 @@ SOURCES = (
     "adaway.org",
     "add.2o7Net",
     "someonewhocares.org",
-    "URLHaus",
     "yoyo.org",
 )
 DOMAIN = re.compile(r"(?i)^(?=.{1,253}$)[a-z0-9_-]+(?:\.[a-z0-9_-]+)+$")
@@ -40,13 +40,14 @@ def main():
         for source in data.iterdir():
             if source.is_dir() and source.name not in SOURCES:
                 shutil.rmtree(source)
-        if {p.name for p in data.iterdir() if p.is_dir()} != set(SOURCES):
-            raise RuntimeError("The upstream source layout has changed; inspect it before building.")
+        missing = set(SOURCES) - {p.name for p in data.iterdir() if p.is_dir()}
+        if missing:
+            raise RuntimeError("Selected upstream sources are missing: " + ", ".join(sorted(missing)))
 
         # Use the source snapshots from this upstream commit. This avoids mixing
         # one source updated today with another that could not be downloaded.
         subprocess.run(
-            ["python3", "updateHostsFile.py", "--auto", "--noupdate", "--nogendata", "--skipstatichosts"],
+            [sys.executable, "updateHostsFile.py", "--auto", "--noupdate", "--nogendata", "--skipstatichosts"],
             cwd=repo, check=True, stdout=subprocess.DEVNULL,
         )
 
