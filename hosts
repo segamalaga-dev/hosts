@@ -1,6 +1,6 @@
-# Personal Android hosts selection; built 2026-10-30 09:20 UTC
+# Personal Android hosts selection; built 2026-10-30 09:27 UTC
 # Upstream: https://github.com/StevenBlack/hosts.git (commit 11550239d571)
-# Unique blocked domains: 39573
+# Unique blocked domains: 39575
 # Sources and original URLs (retained for attribution):
 # StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # adaway.org: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -11104,6 +11104,7 @@
 0.0.0.0 embed.tempest-identity.prod.saymedia.com
 0.0.0.0 embedded-preview.pardot.force.com
 0.0.0.0 embedded.pardot.force.com
+0.0.0.0 embedone.com
 0.0.0.0 emblhthdevelopment.112.2o7.net
 0.0.0.0 emc.122.2o7.net
 0.0.0.0 emea-bidder.mathtag.com
@@ -39179,6 +39180,7 @@
 0.0.0.0 xenical.1.p2l.info
 0.0.0.0 xenical.3.p2l.info
 0.0.0.0 xenical.4.p2l.info
+0.0.0.0 xeno.baby
 0.0.0.0 xenon.studio
 0.0.0.0 xenonclient.com
 0.0.0.0 xertive.com
