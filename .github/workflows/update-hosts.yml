@@ -3,13 +3,13 @@ name: Update selected hosts
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: [main, segamalaga-dev-patch-1]
     paths:
       - build.py
       - requirements.txt
       - .github/workflows/update-hosts.yml
   schedule:
-    - cron: "17 5 * * 1"
+    - cron: "17 5 * * *"
 
 permissions:
   contents: write
@@ -23,7 +23,10 @@ jobs:
         with:
           python-version: "3.12"
       - run: python3 -m pip install -r requirements.txt
-      - run: python3 build.py
+      - name: Generate selected hosts
+        env:
+          URLHAUS_AUTH_KEY: ${{ secrets.URLHAUS_AUTH_KEY }}
+        run: python3 build.py
       - name: Commit updated hosts
         run: |
           if ! git diff --quiet -- hosts hosts-windows; then
