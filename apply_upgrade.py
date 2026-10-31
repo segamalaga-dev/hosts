@@ -32,7 +32,7 @@ def replace_once(contents, old, new, filename):
 
 source = replace_once(source, 'import tempfile\n', 'import tempfile\nimport requests\n', 'build.py')
 helper = '''# External sources supplement upstream StevenBlack; they are deduplicated below.
-FROGEYE_URL = "https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt"
+FROGEYE_URL = "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt"
 # The Auth-Key is passed through the Actions secret URLHAUS_AUTH_KEY.
 URLHAUS_TEMPLATE = "https://urlhaus-api.abuse.ch/v2/files/exports/{key}/hostfile.txt"
 MAX_TOTAL_DOMAINS = 55000
@@ -155,8 +155,10 @@ text += '''
 
 ## Protección adicional: Frogeye y URLhaus
 
-La lista [Frogeye First-party only](https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt)
-se añade para mejorar la privacidad y bloquear rastreadores de primera parte.
+La lista [Frogeye First-party trackers (completa)](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt)
+se añade para bloquear rastreadores camuflados bajo subdominios de las webs y sus
+nombres de seguimiento bajo los dominios de los proveedores. Se usa la variante
+completa recomendada por el autor para bloqueadores basados en hosts.
 
 URLhaus fue retirada de las fuentes del repositorio original de StevenBlack. Este fork
 puede añadir su hostfile actualizado de dominios asociados a distribución de malware.

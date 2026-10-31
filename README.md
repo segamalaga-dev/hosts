@@ -37,8 +37,10 @@ El encabezado del archivo generado identifica las fuentes activas con sus URL or
 
 ## Protección adicional: Frogeye y URLhaus
 
-La lista [Frogeye First-party only](https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt)
-se añade para mejorar la privacidad y bloquear rastreadores de primera parte.
+La lista [Frogeye First-party trackers (completa)](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt)
+se añade para bloquear rastreadores camuflados bajo subdominios de las webs y sus
+nombres de seguimiento bajo los dominios de los proveedores. Se usa la variante
+completa recomendada por el autor para bloqueadores basados en hosts.
 
 URLhaus fue retirada de las fuentes del repositorio original de StevenBlack. Este fork
 puede añadir su hostfile actualizado de dominios asociados a distribución de malware.

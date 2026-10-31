@@ -24,7 +24,7 @@ SOURCES = (
     "yoyo.org",
 )
 # External sources supplement upstream StevenBlack; they are deduplicated below.
-FROGEYE_URL = "https://hostfiles.frogeye.fr/firstparty-only-trackers-hosts.txt"
+FROGEYE_URL = "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt"
 # The Auth-Key is passed through the Actions secret URLHAUS_AUTH_KEY.
 URLHAUS_TEMPLATE = "https://urlhaus-api.abuse.ch/v2/files/exports/{key}/hostfile.txt"
 MAX_TOTAL_DOMAINS = 55000
