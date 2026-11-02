@@ -1,5 +1,5 @@
 # Selected hosts for Windows; 27147 blocked domains
-# Upstream: https://github.com/StevenBlack/hosts.git (commit 11550239d571)
+# Upstream: https://github.com/StevenBlack/hosts.git (commit 6d56ab44f2b3)
 # Source attribution and original URLs:
 # StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # adaway.org: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
