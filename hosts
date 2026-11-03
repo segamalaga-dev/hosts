@@ -1,6 +1,6 @@
-# Personal Android hosts selection; built 2026-11-02 15:07 UTC
+# Personal Android hosts selection; built 2026-11-03 12:35 UTC
 # Upstream: https://github.com/StevenBlack/hosts.git (commit 6d56ab44f2b3)
-# Unique blocked domains: 41996
+# Unique blocked domains: 41990
 # Sources and original URLs (retained for attribution):
 # StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # adaway.org: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -209,6 +209,7 @@
 0.0.0.0 285545256993116.wt-eu02.net
 0.0.0.0 286813086616891.wt-eu02.net
 0.0.0.0 29627a66.api.splkmobile.com
+0.0.0.0 297-47d1-852d-0f1a190c45.garbagestress.cc
 0.0.0.0 2975c.v.fwmrm.net
 0.0.0.0 2baners.ero-advertising.com
 0.0.0.0 2ciy2-9kbup.ads.tremorhub.com
@@ -4845,7 +4846,6 @@
 0.0.0.0 anxiousapples.com
 0.0.0.0 anycast.adnxs.com
 0.0.0.0 anycast.dt.adsafeprotected.com
-0.0.0.0 anyhoo.testeaza.eu
 0.0.0.0 anylist.c.appier.net
 0.0.0.0 anz-shield-secure.com
 0.0.0.0 ao-mail1.logility.com
@@ -5582,7 +5582,6 @@
 0.0.0.0 apx.moatads.com
 0.0.0.0 aqt.adalliance.io
 0.0.0.0 aquaticowl.com
-0.0.0.0 aquatitewaterproofing.com
 0.0.0.0 ar-gmtdmp.mookie1.com
 0.0.0.0 ar.5.p2l.info
 0.0.0.0 ar.atelier-romeo.com
@@ -5613,6 +5612,7 @@
 0.0.0.0 arena.altitudeplatform.com
 0.0.0.0 aresboot.xyz
 0.0.0.0 aresweb.fr
+0.0.0.0 areyouready.co.za
 0.0.0.0 arg.atomex.net
 0.0.0.0 arg.mail.haircode.com
 0.0.0.0 arg.mail.pampers.com
@@ -6784,12 +6784,10 @@
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bins.recycleaway.com
 0.0.0.0 biomagin.com
-0.0.0.0 bioprot.com.ar
 0.0.0.0 biorad.tt.omtrdc.net
 0.0.0.0 bioscience.biomb.ca
 0.0.0.0 bioware.fr
 0.0.0.0 bip.presage.io
-0.0.0.0 bipfdjnk.com
 0.0.0.0 birth-control.1.p2l.info
 0.0.0.0 birthdaybelief.com
 0.0.0.0 bis.lexisnexis.com
@@ -7459,7 +7457,6 @@
 0.0.0.0 c0011.boursorama.com
 0.0.0.0 c0012.brsimg.com
 0.0.0.0 c00162-dl.urbanairship.com
-0.0.0.0 c0mcom.com
 0.0.0.0 c0nforama.fr
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.cembuyukhanli.com
@@ -8457,6 +8454,7 @@
 0.0.0.0 chat.ero-advertising.com
 0.0.0.0 chat.webtrekk.com
 0.0.0.0 chatgpt-premium.com
+0.0.0.0 chatgptiamega.ru
 0.0.0.0 chatroll.fr
 0.0.0.0 chauksoa.net
 0.0.0.0 chausport.eulerian.net
@@ -8470,6 +8468,7 @@
 0.0.0.0 check-products.org
 0.0.0.0 check-tcp.rayjump.com
 0.0.0.0 check.rayjump.com
+0.0.0.0 checkfivem.com
 0.0.0.0 checkfreevideos.net
 0.0.0.0 checkout360now.net
 0.0.0.0 checkstat.nl
@@ -9529,7 +9528,6 @@
 0.0.0.0 contextweb.com
 0.0.0.0 contilla01.wt-eu02.net
 0.0.0.0 contineljs.com
-0.0.0.0 continentalgroup.net.in
 0.0.0.0 contrack.link
 0.0.0.0 control.kochava.com
 0.0.0.0 control.scloud.lfengmobile.com
@@ -9612,6 +9610,7 @@
 0.0.0.0 coreluk.112.2o7.net
 0.0.0.0 coremetrics.carrier.com
 0.0.0.0 coremetrics.com
+0.0.0.0 coreprotector.org
 0.0.0.0 corinthiancolleges.112.2o7.net
 0.0.0.0 coronabreath.com
 0.0.0.0 corp-downloads.com
@@ -9935,7 +9934,6 @@
 0.0.0.0 creditreform01.wt-eu02.net
 0.0.0.0 creditreform02.wt-eu02.net
 0.0.0.0 creditsafebusinessso.tt.omtrdc.net
-0.0.0.0 cresvin.com
 0.0.0.0 creview.adbureau.net
 0.0.0.0 cricket.mobileposse.com
 0.0.0.0 crid.bfmio.com
@@ -10010,6 +10008,7 @@
 0.0.0.0 cs.atdmt.com
 0.0.0.0 cs.co
 0.0.0.0 cs.emxdgt.com
+0.0.0.0 cs.go.kg
 0.0.0.0 cs.gssprt.jp
 0.0.0.0 cs.lkqd.net
 0.0.0.0 cs.media.net
@@ -10491,7 +10490,6 @@
 0.0.0.0 dc.webtrends.com
 0.0.0.0 dc.yieldify.com
 0.0.0.0 dc43.s290.meetrics.net
-0.0.0.0 dc84406c-gei55kj16cf-d1fa3d9fc.fablegrid.cc
 0.0.0.0 dcads.sina.com.cn
 0.0.0.0 dccfog.petco.com
 0.0.0.0 dcdn.adnxs.com
@@ -10510,6 +10508,7 @@
 0.0.0.0 dcwblida.dz
 0.0.0.0 dcys.ijinshan.com
 0.0.0.0 dd.nytimes.com
+0.0.0.0 dd4c2c-12bc35233b71.reunionstream.cc
 0.0.0.0 ddbapp01.wt-eu02.net
 0.0.0.0 ddbca.localmeets.link
 0.0.0.0 ddbelib01.wt-eu02.net
@@ -10634,6 +10633,7 @@
 0.0.0.0 den01.event.spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
 0.0.0.0 denetsuk.com
+0.0.0.0 denizcerceve.com
 0.0.0.0 dennispublishing.112.2o7.net
 0.0.0.0 dentalfix.shop
 0.0.0.0 dentistsinyourarea.com
@@ -11101,7 +11101,6 @@
 0.0.0.0 dowjones.hb.omtrdc.net
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
-0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.sqlnetcat.com
 0.0.0.0 downgradeproduct.com
 0.0.0.0 download-azhioss.space
@@ -11423,7 +11422,6 @@
 0.0.0.0 e5.wetterkameras.com
 0.0.0.0 e6.wetterkameras.com
 0.0.0.0 e7.wetterkameras.com
-0.0.0.0 e76d78a-ab4760-db52-652cd4fy-u43jda.tidepull.cc
 0.0.0.0 e7876.dscg.akamaiedge.net
 0.0.0.0 ea.1001pneus.fr
 0.0.0.0 ea.auchantelecom.fr
@@ -11651,7 +11649,6 @@
 0.0.0.0 edu.interfolio.com
 0.0.0.0 eduardorodrigues.adv.br
 0.0.0.0 educ.am1.eulerian.net
-0.0.0.0 educacom.com.br
 0.0.0.0 education-securiter-routiere.fr
 0.0.0.0 education.graduateprogram.org
 0.0.0.0 educationmanagementllc.112.2o7.net
@@ -13002,7 +12999,6 @@
 0.0.0.0 file-shares.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.ipinyou.com.cn
-0.0.0.0 file.uhsea.com
 0.0.0.0 filedrive.nocoshop.ru
 0.0.0.0 filedrive.uploadbox.world
 0.0.0.0 filekeeper.nocoshop.ru
@@ -13210,6 +13206,7 @@
 0.0.0.0 foodeveryhour.com
 0.0.0.0 foodspring01.wt-eu02.net
 0.0.0.0 footprintdns.com
+0.0.0.0 for-what-u-check-it-bro.lol
 0.0.0.0 forbes.media.net
 0.0.0.0 forbes274355.s.moatpixel.com
 0.0.0.0 forbesattache.112.2o7.net
@@ -14006,6 +14003,7 @@
 0.0.0.0 getoutofyourmind.com
 0.0.0.0 getpoints.net
 0.0.0.0 getrelator.com
+0.0.0.0 getreroll.cc
 0.0.0.0 getrunkhomuto.info
 0.0.0.0 getrxhere.co
 0.0.0.0 getspecialgifts.com
@@ -15751,6 +15749,7 @@
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 hnfwg.voluumtrk.com
 0.0.0.0 hobbes.blueoxtech.com
+0.0.0.0 hobobot.net
 0.0.0.0 hocgeese.com
 0.0.0.0 hocolats-voisin.fr
 0.0.0.0 hofmann-es.eulerian.net
@@ -16098,6 +16097,7 @@
 0.0.0.0 ice.112.2o7.net
 0.0.0.0 ice1.gosportmontagne.com
 0.0.0.0 icecars.com
+0.0.0.0 icecheats.space
 0.0.0.0 iceman30.de
 0.0.0.0 iceonecasino.com
 0.0.0.0 icex01.wt-eu02.net
@@ -17155,7 +17155,6 @@
 0.0.0.0 jasperrcorporation.com
 0.0.0.0 jav.ee
 0.0.0.0 jav.jave.xyz
-0.0.0.0 jawaratekno.com
 0.0.0.0 jb9clfifs6.s.ad6media.fr
 0.0.0.0 jbaventures.cjt1.net
 0.0.0.0 jbcam.cz
@@ -17960,7 +17959,6 @@
 0.0.0.0 leadspace.com
 0.0.0.0 leadsynaptic.go2jump.org
 0.0.0.0 leadzupc.com
-0.0.0.0 leafdraft18.com
 0.0.0.0 leaitworldprod.112.2o7.net
 0.0.0.0 leancoding.co
 0.0.0.0 leanmobi.fusetracking.com
@@ -18014,6 +18012,7 @@
 0.0.0.0 lentainform.com
 0.0.0.0 leojblog.com
 0.0.0.0 leomonde.fr
+0.0.0.0 lepafonso.bz
 0.0.0.0 leparirien.fr
 0.0.0.0 leparisein.fr
 0.0.0.0 leparisin.fr
@@ -18564,7 +18563,6 @@
 0.0.0.0 luizmatoso.com.br
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 lululemonusa.tt.omtrdc.net
-0.0.0.0 lumacrea.com
 0.0.0.0 luminae.fr
 0.0.0.0 luminouspower.com.pk
 0.0.0.0 luniko.fr
@@ -19568,7 +19566,6 @@
 0.0.0.0 maltiverse.lt.acemlnc.com
 0.0.0.0 malupieng.com.br
 0.0.0.0 mama.pipi.ne.jp
-0.0.0.0 mamabearcoffee.com
 0.0.0.0 mamilade.oewabox.at
 0.0.0.0 mammothmountainskiar.tt.omtrdc.net
 0.0.0.0 manage001.adtech.fr
@@ -29335,6 +29332,7 @@
 0.0.0.0 rickrolling.com
 0.0.0.0 ricohusa.tt.omtrdc.net
 0.0.0.0 ridepush.com
+0.0.0.0 riderspin.com
 0.0.0.0 rifec.co
 0.0.0.0 rightmedia.net
 0.0.0.0 rightmoveanalytics.co.uk
@@ -29396,6 +29394,7 @@
 0.0.0.0 robertgraham.fr
 0.0.0.0 roberthalfintl.tt.omtrdc.net
 0.0.0.0 robertrowe.com
+0.0.0.0 roblox-expl.info
 0.0.0.0 roboinside.me
 0.0.0.0 robot.royalcactus.com
 0.0.0.0 roboth.ir
@@ -29638,7 +29637,6 @@
 0.0.0.0 runnerswolrd.fr
 0.0.0.0 runtime.lemonpi.io
 0.0.0.0 runtnc.net
-0.0.0.0 rup.ksoftir.cc
 0.0.0.0 rup5.destinia.ru
 0.0.0.0 ruralrobin.com
 0.0.0.0 russian-sex.com
@@ -34304,6 +34302,7 @@
 0.0.0.0 spencergifts.112.2o7.net
 0.0.0.0 spensa.co
 0.0.0.0 spezialreporte.de
+0.0.0.0 spgint.com
 0.0.0.0 spiffymachine.com
 0.0.0.0 spikereekvelocity.com
 0.0.0.0 spiketv.112.2o7.net
@@ -34712,6 +34711,7 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.hyprmx.com
 0.0.0.0 static.ifa.camads.net
+0.0.0.0 static.ilclock.com
 0.0.0.0 static.innovid.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.iterable.com
@@ -35137,7 +35137,6 @@
 0.0.0.0 superchichair.com
 0.0.0.0 superclix.de
 0.0.0.0 supercounters.com
-0.0.0.0 superdudesjr.com
 0.0.0.0 superfastcdn.com
 0.0.0.0 superficialsquare.com
 0.0.0.0 superinterstitial.com
@@ -35468,7 +35467,6 @@
 0.0.0.0 ta-collector.centurygame.com
 0.0.0.0 ta.charlestyrwhitt.com
 0.0.0.0 tab.dellrescue.com
-0.0.0.0 tabak.hr
 0.0.0.0 tabelog.com.102.112.2o7.net
 0.0.0.0 taboola-d.openx.net
 0.0.0.0 taboola-supply-partners.tremorhub.com
@@ -35942,7 +35940,6 @@
 0.0.0.0 theestatehouse.co.uk
 0.0.0.0 thefappeningpics.com
 0.0.0.0 thegroup.112.2o7.net
-0.0.0.0 thehaider.com
 0.0.0.0 theholidayroads.com
 0.0.0.0 thehomo.org
 0.0.0.0 thehub7xbw4dc5r2.onion.pet
@@ -36031,7 +36028,6 @@
 0.0.0.0 ticklesign.com
 0.0.0.0 ticks2.bugsense.com
 0.0.0.0 ticksel.com
-0.0.0.0 ticpc8a.com
 0.0.0.0 tics.techdirt.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tidaltv.com.akadns.net
@@ -37028,7 +37024,6 @@
 0.0.0.0 uarating.com
 0.0.0.0 uatpamperstestdomain.pg.com
 0.0.0.0 uav.tidaltv.com
-0.0.0.0 uber-joeleasing.de
 0.0.0.0 uberads.com
 0.0.0.0 uberm.bttn.io
 0.0.0.0 uberupload.nocoshop.ru
@@ -37169,7 +37164,6 @@
 0.0.0.0 univ-pars1.fr
 0.0.0.0 univ6lehavre.fr
 0.0.0.0 universal.iperceptions.com
-0.0.0.0 universami.ge
 0.0.0.0 universe.send.microad.jp
 0.0.0.0 universityofchicagograduateschool.122.2o7.net
 0.0.0.0 univevry.fr
@@ -37214,6 +37208,7 @@
 0.0.0.0 update.kmpmedia.net
 0.0.0.0 update.microsoftonlines.net
 0.0.0.0 update.morgdog.springserve.com
+0.0.0.0 update.neewsoo.com
 0.0.0.0 update.openx.com
 0.0.0.0 update.postimp-ofw.fyber.com
 0.0.0.0 update.rubiconproject.com
@@ -37621,7 +37616,6 @@
 0.0.0.0 verification.jiguang.cn
 0.0.0.0 verify.mob.com
 0.0.0.0 verify.rambler-profile.site
-0.0.0.0 verifyidentrob01.cc
 0.0.0.0 verisignwildcard.112.2o7.net
 0.0.0.0 verisonwildcard.112.2o7.net
 0.0.0.0 verizon.adhaven.com
@@ -38155,7 +38149,6 @@
 0.0.0.0 w4.hitbox.com
 0.0.0.0 w5.hitbox.com
 0.0.0.0 w55c.net
-0.0.0.0 w5q.eu
 0.0.0.0 w6.hitbox.com
 0.0.0.0 w61.1piecemanga.com
 0.0.0.0 w7.berlin.de
@@ -39563,6 +39556,7 @@
 0.0.0.0 www.dt1blog.com
 0.0.0.0 www.dtta.ero-advertising.com
 0.0.0.0 www.dualeotruyenno.com
+0.0.0.0 www.duelvalenza.it
 0.0.0.0 www.dunlop.force9.co.uk
 0.0.0.0 www.duotrader.com
 0.0.0.0 www.dustinjonesgolfacademy.com
