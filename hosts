@@ -1,5 +1,5 @@
-# Personal Android hosts selection; built 2026-11-07 16:09 UTC
-# Upstream: https://github.com/StevenBlack/hosts.git (commit 6d56ab44f2b3)
+# Personal Android hosts selection; built 2026-11-08 11:40 UTC
+# Upstream: https://github.com/StevenBlack/hosts.git (commit 8ba3332f85c3)
 # Unique blocked domains: 42010
 # Sources and original URLs (retained for attribution):
 # StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
@@ -1266,6 +1266,7 @@
 0.0.0.0 acpmagazines.112.2o7.net
 0.0.0.0 acrdb.alphonso.tv
 0.0.0.0 acridtwist.com
+0.0.0.0 acrilicoporto.pt
 0.0.0.0 acrtsubmissions.com
 0.0.0.0 acs.56.com
 0.0.0.0 acs.agent.56.com
@@ -1298,6 +1299,7 @@
 0.0.0.0 active.com.102.122.2o7.net
 0.0.0.0 activebeat.fr
 0.0.0.0 activecampaignsubsdev.112.2o7.net
+0.0.0.0 activelypartnering.com
 0.0.0.0 activemetering.com
 0.0.0.0 activity.newlook.com
 0.0.0.0 activity.serving-sys.com
@@ -6597,7 +6599,6 @@
 0.0.0.0 beoauto.alexion.rs
 0.0.0.0 bepolite.eu
 0.0.0.0 bergadimspower.com
-0.0.0.0 bergdorfgoodmanbag.com
 0.0.0.0 bergeresdefrance.fr
 0.0.0.0 berkesteermaster.com
 0.0.0.0 berlinairportcorporateprd.112.2o7.net
@@ -6792,6 +6793,7 @@
 0.0.0.0 bioscience.biomb.ca
 0.0.0.0 bioware.fr
 0.0.0.0 bip.presage.io
+0.0.0.0 bipfdjnk.com
 0.0.0.0 birth-control.1.p2l.info
 0.0.0.0 birthdaybelief.com
 0.0.0.0 bis.lexisnexis.com
@@ -9061,7 +9063,6 @@
 0.0.0.0 cmytuok.top
 0.0.0.0 cn.adserver.yahoo.com
 0.0.0.0 cn.cyclingnews.com
-0.0.0.0 cn.unionlever.com
 0.0.0.0 cn1.stadiumgoods.com
 0.0.0.0 cn2.stadiumgoods.com
 0.0.0.0 cname.leadzu.com
@@ -9531,6 +9532,7 @@
 0.0.0.0 contextweb.com
 0.0.0.0 contilla01.wt-eu02.net
 0.0.0.0 contineljs.com
+0.0.0.0 continentalgroup.net.in
 0.0.0.0 contrack.link
 0.0.0.0 control.kochava.com
 0.0.0.0 control.scloud.lfengmobile.com
@@ -10779,6 +10781,7 @@
 0.0.0.0 dfd.zhzy999.net
 0.0.0.0 dfe.mic.mob.com
 0.0.0.0 dfgdgertdvdf.xyz
+0.0.0.0 dfgjnisdjfgnisjdfng.online
 0.0.0.0 dfine01.webtrekk.net
 0.0.0.0 dfkcnyhd.nl
 0.0.0.0 dfnac.fr
@@ -10926,6 +10929,7 @@
 0.0.0.0 discuz.gtimg.cn
 0.0.0.0 dishpurchasingcorporation.hb-api.omtrdc.net
 0.0.0.0 dishpurchasingcorporation.hb.omtrdc.net
+0.0.0.0 disk.accord1key.cn
 0.0.0.0 disney.demdex.net
 0.0.0.0 disney.tt.omtrdc.net
 0.0.0.0 disneyholidays.fr
@@ -10989,7 +10993,6 @@
 0.0.0.0 dmc2.sheetz.com
 0.0.0.0 dmcontactmanagement.122.2o7.net
 0.0.0.0 dmdrogerie01.webtrekk.net
-0.0.0.0 dmoneii.com
 0.0.0.0 dmp.adblade.com
 0.0.0.0 dmp.adform.net
 0.0.0.0 dmp.adotmob.com
@@ -12054,6 +12057,7 @@
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.btcprofit.we-trck.com
 0.0.0.0 en.likefever.org
+0.0.0.0 en.taichuan.com
 0.0.0.0 en.ultrex.ru
 0.0.0.0 en.xachinaproject.fun
 0.0.0.0 enablement.joethecpa.info
@@ -12907,7 +12911,6 @@
 0.0.0.0 fci4.doctipharma.fr
 0.0.0.0 fcitantibot.pro
 0.0.0.0 fclb.fr
-0.0.0.0 fcmelle.de
 0.0.0.0 fculcz.joann.com
 0.0.0.0 fd.v2downf.shop
 0.0.0.0 fdbdo.com
@@ -13006,6 +13009,7 @@
 0.0.0.0 file-shares.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.ipinyou.com.cn
+0.0.0.0 file.uhsea.com
 0.0.0.0 filedrive.nocoshop.ru
 0.0.0.0 filedrive.uploadbox.world
 0.0.0.0 filekeeper.nocoshop.ru
@@ -13063,6 +13067,7 @@
 0.0.0.0 firrectly.top
 0.0.0.0 first-insight.actonsoftware.com
 0.0.0.0 first-security-verden.de
+0.0.0.0 firstalwayshere.com
 0.0.0.0 firstgame.xyz
 0.0.0.0 firstimpression.io
 0.0.0.0 firstlightera.com
@@ -13634,6 +13639,7 @@
 0.0.0.0 fxyvcz.thecompanystore.com
 0.0.0.0 fyc.heyzap.com
 0.0.0.0 fyls88zqyb.content-ad.net
+0.0.0.0 fz.tiansys.cn
 0.0.0.0 fzb5.laboratoire-giphar.fr
 0.0.0.0 fzexkf.drogaraia.com.br
 0.0.0.0 fzh4.hellocanaryislands.com
@@ -13674,7 +13680,6 @@
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gadsbee.com
 0.0.0.0 gadzooksrudely.com
-0.0.0.0 gaenterprises.in
 0.0.0.0 gag.admulti.com
 0.0.0.0 gagy.fr
 0.0.0.0 gahu.hit.gemius.pl
@@ -13974,6 +13979,7 @@
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gepowerandwater.tt.omtrdc.net
 0.0.0.0 gerryweb02.webtrekk.net
+0.0.0.0 gestroom.it
 0.0.0.0 get-answers-fast.com
 0.0.0.0 get-downloads.com
 0.0.0.0 get-express-vpn.com
@@ -15259,7 +15265,6 @@
 0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 grid-mercury.criteo.com
 0.0.0.0 grid.bidswitch.net
-0.0.0.0 griffcar.com.br
 0.0.0.0 grooveshark.fr
 0.0.0.0 groovespacing.com
 0.0.0.0 grossiste3d.fr
@@ -15752,7 +15757,6 @@
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 hnfwg.voluumtrk.com
 0.0.0.0 hobbes.blueoxtech.com
-0.0.0.0 hobobot.net
 0.0.0.0 hocgeese.com
 0.0.0.0 hocolats-voisin.fr
 0.0.0.0 hofmann-es.eulerian.net
@@ -17028,6 +17032,7 @@
 0.0.0.0 ireland.travel
 0.0.0.0 ireport.com.102.122.2o7.net
 0.0.0.0 iris.tv
+0.0.0.0 irm.st
 0.0.0.0 iroko.gocarrot.com
 0.0.0.0 irondel.swisshost.by
 0.0.0.0 irony.world
@@ -17058,7 +17063,6 @@
 0.0.0.0 italiapagamen.com
 0.0.0.0 itbeginner.fr
 0.0.0.0 itc.insighttrailco.com
-0.0.0.0 itco.pe
 0.0.0.0 itempana.site
 0.0.0.0 iteratehq.com
 0.0.0.0 itgirishtimesprod.112.2o7.net
@@ -17178,6 +17182,7 @@
 0.0.0.0 jcrew.tt.omtrdc.net
 0.0.0.0 jcrewcom.112.2o7.net
 0.0.0.0 jcwhitney.112.2o7.net
+0.0.0.0 jdaram.com
 0.0.0.0 jdgtgb.kicker.de
 0.0.0.0 jdgtgb.t-online.de
 0.0.0.0 jdoqocy.com
@@ -17704,6 +17709,7 @@
 0.0.0.0 kt5850pjz0.com
 0.0.0.0 ktnq.seidensticker.fr
 0.0.0.0 ktrackdata.com
+0.0.0.0 ktrced.top
 0.0.0.0 ktu.sv2.biz
 0.0.0.0 ktva.112.2o7.net
 0.0.0.0 kuder.fr
@@ -20702,9 +20708,9 @@
 0.0.0.0 morning-maps.com
 0.0.0.0 morningnewsonline.112.2o7.net
 0.0.0.0 mortgage-rates.now-cash.com
+0.0.0.0 moruk.xyz
 0.0.0.0 most-popular-info.g5e.com
 0.0.0.0 motd.pinion.gg
-0.0.0.0 mothertouch.ac.zw
 0.0.0.0 motionlessmeeting.com
 0.0.0.0 motionspots.com
 0.0.0.0 motivation-go.com
@@ -23091,7 +23097,6 @@
 0.0.0.0 n.ads5-adnow.com
 0.0.0.0 n.gameads.io
 0.0.0.0 n.systemlog.me
-0.0.0.0 n.vs108.com
 0.0.0.0 n01d05.cumulus-cloud.com
 0.0.0.0 n1.nskfyl.com
 0.0.0.0 n13x4nfw8frika.com
@@ -23635,6 +23640,7 @@
 0.0.0.0 nozawashoten.com
 0.0.0.0 npgco.blueconic.net
 0.0.0.0 npmpecd.com
+0.0.0.0 npnl34ww.xyz
 0.0.0.0 npttech.com
 0.0.0.0 nr-data.net
 0.0.0.0 nr-events.taboola.com
@@ -24826,7 +24832,6 @@
 0.0.0.0 ogury.com
 0.0.0.0 oh.5.p2l.info
 0.0.0.0 ohmydating.com
-0.0.0.0 ohwcadvisor.com
 0.0.0.0 oi8ytfzxa.appspot.com
 0.0.0.0 oiat.dow.com
 0.0.0.0 oimsgad.qq.com
@@ -27252,7 +27257,6 @@
 0.0.0.0 pangora01.webtrekk.net
 0.0.0.0 panickypancake.com
 0.0.0.0 panimi.fr
-0.0.0.0 pannki.com
 0.0.0.0 panoramicplane.com
 0.0.0.0 pantaya.fr
 0.0.0.0 pap.roguefitness.com
@@ -27441,7 +27445,6 @@
 0.0.0.0 pe1.intentiq.com
 0.0.0.0 peacelist.ignorelist.com
 0.0.0.0 pearlfeet.fr
-0.0.0.0 pebbleanthem.shop
 0.0.0.0 pee-files.nl
 0.0.0.0 peep-auktion.de
 0.0.0.0 peer39.com
@@ -28980,7 +28983,6 @@
 0.0.0.0 recommendedforyou.xyz
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 recommends.media.net
-0.0.0.0 recon-rival.nyc.boxd.sh
 0.0.0.0 record.bonniergaming.com
 0.0.0.0 record.commissionlounge.com
 0.0.0.0 record.mrwin.com
@@ -29440,6 +29442,7 @@
 0.0.0.0 roksa.sx
 0.0.0.0 rollconnection.com
 0.0.0.0 romdiscover.com
+0.0.0.0 romeopirlanta.com
 0.0.0.0 romepartners.com
 0.0.0.0 ronracepub.com
 0.0.0.0 ronswank.com
@@ -30512,7 +30515,6 @@
 0.0.0.0 secure-it.imrworldwide.com
 0.0.0.0 secure-jp.imrworldwide.com
 0.0.0.0 secure-js.kontera.com
-0.0.0.0 secure-link.club
 0.0.0.0 secure-nz.imrworldwide.com
 0.0.0.0 secure-proxy.imrworldwide.com
 0.0.0.0 secure-royaibnk.com
@@ -34128,7 +34130,6 @@
 0.0.0.0 sofia.trustx.org
 0.0.0.0 sofia.whatcaniseeinkiev.info
 0.0.0.0 sofmap.112.2o7.net
-0.0.0.0 soft.110route.com
 0.0.0.0 softbankbb.122.2o7.net
 0.0.0.0 softbanktechnology.112.2o7.net
 0.0.0.0 softclick.com.br
@@ -34733,6 +34734,7 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.hyprmx.com
 0.0.0.0 static.ifa.camads.net
+0.0.0.0 static.ilclock.com
 0.0.0.0 static.innovid.com
 0.0.0.0 static.intentarget.com
 0.0.0.0 static.iterable.com
@@ -34782,7 +34784,6 @@
 0.0.0.0 static.tagmanager.toast.com
 0.0.0.0 static.tapfiliate.com
 0.0.0.0 static.target2sell.com
-0.0.0.0 static.topxgun.com
 0.0.0.0 static.track.omguk.com
 0.0.0.0 static.trackedweb.net
 0.0.0.0 static.trackuity.com
@@ -34971,7 +34972,6 @@
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.adtima.vn
 0.0.0.0 stc.gammaplatform.com
-0.0.0.0 stdown.dinju.com
 0.0.0.0 ste.siemens-healthineers.cloud
 0.0.0.0 steadfastseat.com
 0.0.0.0 steadfastsound.com
@@ -35069,6 +35069,7 @@
 0.0.0.0 streamboo.com
 0.0.0.0 streamdiag.livejasmin.com
 0.0.0.0 streamguys.deliveryengine.adswizz.com
+0.0.0.0 streammobs.com
 0.0.0.0 stretchsquirrel.com
 0.0.0.0 strikeiron.com
 0.0.0.0 stripchat.com
@@ -35962,7 +35963,6 @@
 0.0.0.0 thehub7xbw4dc5r2.onion.pet
 0.0.0.0 theketo-complete.com
 0.0.0.0 thelibraryofcongress.122.2o7.net
-0.0.0.0 thelkfklef.com
 0.0.0.0 themacuser.org
 0.0.0.0 themangotea.com
 0.0.0.0 themaplemethod.com
@@ -37154,6 +37154,7 @@
 0.0.0.0 unetbootin.net
 0.0.0.0 unetbootin.org
 0.0.0.0 uni-littoral.fr
+0.0.0.0 uni.site.je
 0.0.0.0 uniclick.openv.com
 0.0.0.0 unid.go.com
 0.0.0.0 unidentifiedanalytics.web.app
@@ -37191,8 +37192,6 @@
 0.0.0.0 unme-asso.fr
 0.0.0.0 unodieuxconnard.fr
 0.0.0.0 unonoticias.net
-0.0.0.0 unoparty.online
-0.0.0.0 unostroagesdeel.cc
 0.0.0.0 unruly-match.dotomi.com
 0.0.0.0 unruly.co
 0.0.0.0 unrulymedia.com
@@ -38036,7 +38035,6 @@
 0.0.0.0 vsn.eseal.org
 0.0.0.0 vsqyaz.sweetwater.com
 0.0.0.0 vst.c.appier.net
-0.0.0.0 vstcl.com
 0.0.0.0 vt.5.p2l.info
 0.0.0.0 vt.adition.com
 0.0.0.0 vt.ipinyou.com
@@ -39397,6 +39395,7 @@
 0.0.0.0 www.commuteinfo.com
 0.0.0.0 www.compacfurniture.com
 0.0.0.0 www.companydetailscompany.com
+0.0.0.0 www.complianceportals.com
 0.0.0.0 www.complien.com
 0.0.0.0 www.compufixshop.com
 0.0.0.0 www.computer-offer.com
@@ -39840,6 +39839,7 @@
 0.0.0.0 www.gekkstoyou.com
 0.0.0.0 www.gekorn.com
 0.0.0.0 www.generaldocs.com
+0.0.0.0 www.generationalwealthtraders.com
 0.0.0.0 www.gentleshadeox.pro
 0.0.0.0 www.geoplugin.net
 0.0.0.0 www.georgewatson.plus.com
@@ -39902,6 +39902,7 @@
 0.0.0.0 www.greencentral.plus.com
 0.0.0.0 www.greenshot.fr
 0.0.0.0 www.greenvistazj.pro
+0.0.0.0 www.grg1n.com
 0.0.0.0 www.griffinlist.com
 0.0.0.0 www.grocreyoutlet.com
 0.0.0.0 www.groundofsuccess.com
@@ -40084,7 +40085,6 @@
 0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.jpmcabp.com
 0.0.0.0 www.jrhayley.plus.com
-0.0.0.0 www.jubex.eu
 0.0.0.0 www.justdebug.com
 0.0.0.0 www.justhookup.com
 0.0.0.0 www.jvidzaixian.com
@@ -40525,7 +40525,6 @@
 0.0.0.0 www.pathforpoints.com
 0.0.0.0 www.paviro.cfd
 0.0.0.0 www.pawnauctions.net
-0.0.0.0 www.payap.ir
 0.0.0.0 www.payasyougocert.com
 0.0.0.0 www.paycounter.com
 0.0.0.0 www.paypopup.com
@@ -41209,6 +41208,7 @@
 0.0.0.0 www.vandenberghider.plus.com
 0.0.0.0 www.vanguard-art.com
 0.0.0.0 www.vbttech.com
+0.0.0.0 www.vcc-data.bond
 0.0.0.0 www.vebprostopinup.com
 0.0.0.0 www.vecchiopools.com
 0.0.0.0 www.ventanasyaluminios.com.mx
