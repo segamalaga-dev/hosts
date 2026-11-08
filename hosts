@@ -1,6 +1,6 @@
-# Personal Android hosts selection; built 2026-11-08 11:40 UTC
+# Personal Android hosts selection; built 2026-11-08 17:08 UTC
 # Upstream: https://github.com/StevenBlack/hosts.git (commit 8ba3332f85c3)
-# Unique blocked domains: 42010
+# Unique blocked domains: 42003
 # Sources and original URLs (retained for attribution):
 # StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # adaway.org: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -1266,7 +1266,6 @@
 0.0.0.0 acpmagazines.112.2o7.net
 0.0.0.0 acrdb.alphonso.tv
 0.0.0.0 acridtwist.com
-0.0.0.0 acrilicoporto.pt
 0.0.0.0 acrtsubmissions.com
 0.0.0.0 acs.56.com
 0.0.0.0 acs.agent.56.com
@@ -6012,7 +6011,6 @@
 0.0.0.0 aveva.tt.omtrdc.net
 0.0.0.0 avgtechnologies.112.2o7.net
 0.0.0.0 avid.com.102.112.2o7.net
-0.0.0.0 avidhosting.uk
 0.0.0.0 avidnewssource.com
 0.0.0.0 avidtechnology.112.2o7.net
 0.0.0.0 avilagtitkai.com
@@ -6544,7 +6542,6 @@
 0.0.0.0 beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 0.0.0.0 beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 0.0.0.0 beacontest.cardlytics.com
-0.0.0.0 beak.in
 0.0.0.0 beanbounce.net
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beap.gemini.yahoo.com
@@ -8090,7 +8087,6 @@
 0.0.0.0 cdn.exelator.com
 0.0.0.0 cdn.exp.pandora.net
 0.0.0.0 cdn.fastclick.net
-0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.flashtalking.com.edgekey.net
 0.0.0.0 cdn.flurry.com
@@ -8369,7 +8365,6 @@
 0.0.0.0 central1creditunion.112.2o7.net
 0.0.0.0 centralads.simpli.fi
 0.0.0.0 centricaplc.tt.omtrdc.net
-0.0.0.0 cepde.org
 0.0.0.0 cephalexin.ourtablets.com
 0.0.0.0 ceramicasaosebastiao.com.br
 0.0.0.0 ceres.iad-03.braze.com
@@ -9063,6 +9058,7 @@
 0.0.0.0 cmytuok.top
 0.0.0.0 cn.adserver.yahoo.com
 0.0.0.0 cn.cyclingnews.com
+0.0.0.0 cn.unionlever.com
 0.0.0.0 cn1.stadiumgoods.com
 0.0.0.0 cn2.stadiumgoods.com
 0.0.0.0 cname.leadzu.com
@@ -10514,7 +10510,6 @@
 0.0.0.0 dcs.audi.com
 0.0.0.0 dcshoes.eulerian.net
 0.0.0.0 dctracking.com
-0.0.0.0 dcwblida.dz
 0.0.0.0 dcys.ijinshan.com
 0.0.0.0 dd.nytimes.com
 0.0.0.0 ddbapp01.wt-eu02.net
@@ -11255,7 +11250,6 @@
 0.0.0.0 dufryinternationalag.tt.omtrdc.net
 0.0.0.0 duhquietly.com
 0.0.0.0 duiba.com.cn
-0.0.0.0 dulivo.vu
 0.0.0.0 duluthtrading.tt.omtrdc.net
 0.0.0.0 dummy.112.2o7.net
 0.0.0.0 dunandbradstreet.122.2o7.net
@@ -13009,7 +13003,6 @@
 0.0.0.0 file-shares.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.ipinyou.com.cn
-0.0.0.0 file.uhsea.com
 0.0.0.0 filedrive.nocoshop.ru
 0.0.0.0 filedrive.uploadbox.world
 0.0.0.0 filekeeper.nocoshop.ru
@@ -13442,7 +13435,6 @@
 0.0.0.0 fra1-ib.adnxs-simple.com
 0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 frame-kite.com
-0.0.0.0 frame97.com
 0.0.0.0 francebootball.fr
 0.0.0.0 francelbleu.fr
 0.0.0.0 francoisesaget-com.eulerian.net
@@ -13680,6 +13672,7 @@
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gadsbee.com
 0.0.0.0 gadzooksrudely.com
+0.0.0.0 gaenterprises.in
 0.0.0.0 gag.admulti.com
 0.0.0.0 gagy.fr
 0.0.0.0 gahu.hit.gemius.pl
@@ -15888,7 +15881,6 @@
 0.0.0.0 hswmedia.122.2o7.net
 0.0.0.0 ht-srl.com
 0.0.0.0 ht.adups.com
-0.0.0.0 htdentshop.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 htlb.casalemedia.com.edgekey.net
 0.0.0.0 htlbid.com
@@ -16890,6 +16882,7 @@
 0.0.0.0 intelcorperror.112.2o7.net
 0.0.0.0 intelcorpsupp.112.2o7.net
 0.0.0.0 intelglobal.112.2o7.net
+0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligence.tt.omtrdc.net
@@ -18573,10 +18566,8 @@
 0.0.0.0 ludo.ezyro.com
 0.0.0.0 lueway.fr
 0.0.0.0 lufthansa01.webtrekk.net
-0.0.0.0 luizmatoso.com.br
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 lululemonusa.tt.omtrdc.net
-0.0.0.0 lumacrea.com
 0.0.0.0 luminae.fr
 0.0.0.0 luminouspower.com.pk
 0.0.0.0 luniko.fr
@@ -20708,7 +20699,6 @@
 0.0.0.0 morning-maps.com
 0.0.0.0 morningnewsonline.112.2o7.net
 0.0.0.0 mortgage-rates.now-cash.com
-0.0.0.0 moruk.xyz
 0.0.0.0 most-popular-info.g5e.com
 0.0.0.0 motd.pinion.gg
 0.0.0.0 motionlessmeeting.com
@@ -23097,6 +23087,7 @@
 0.0.0.0 n.ads5-adnow.com
 0.0.0.0 n.gameads.io
 0.0.0.0 n.systemlog.me
+0.0.0.0 n.vs108.com
 0.0.0.0 n01d05.cumulus-cloud.com
 0.0.0.0 n1.nskfyl.com
 0.0.0.0 n13x4nfw8frika.com
@@ -28956,7 +28947,6 @@
 0.0.0.0 realtechnetwork.com
 0.0.0.0 realtime.clinch.co
 0.0.0.0 realtracker.com
-0.0.0.0 reauthenticator.com
 0.0.0.0 rebelhen.com
 0.0.0.0 rebelswing.com
 0.0.0.0 rebevengwas.com
@@ -30019,7 +30009,6 @@
 0.0.0.0 salem02.webtrekk.net
 0.0.0.0 sales.disneylandparis.com
 0.0.0.0 sales.idio.co
-0.0.0.0 sales.ifree.page
 0.0.0.0 sales.realtruck.com
 0.0.0.0 sales.sendwithus.com
 0.0.0.0 salesforce.122.2o7.net
@@ -34130,6 +34119,7 @@
 0.0.0.0 sofia.trustx.org
 0.0.0.0 sofia.whatcaniseeinkiev.info
 0.0.0.0 sofmap.112.2o7.net
+0.0.0.0 soft.110route.com
 0.0.0.0 softbankbb.122.2o7.net
 0.0.0.0 softbanktechnology.112.2o7.net
 0.0.0.0 softclick.com.br
@@ -34784,6 +34774,7 @@
 0.0.0.0 static.tagmanager.toast.com
 0.0.0.0 static.tapfiliate.com
 0.0.0.0 static.target2sell.com
+0.0.0.0 static.topxgun.com
 0.0.0.0 static.track.omguk.com
 0.0.0.0 static.trackedweb.net
 0.0.0.0 static.trackuity.com
@@ -34972,6 +34963,7 @@
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.adtima.vn
 0.0.0.0 stc.gammaplatform.com
+0.0.0.0 stdown.dinju.com
 0.0.0.0 ste.siemens-healthineers.cloud
 0.0.0.0 steadfastseat.com
 0.0.0.0 steadfastsound.com
@@ -36258,6 +36250,7 @@
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpciletsgo.112.2o7.net
+0.0.0.0 tpp.om-stock.com
 0.0.0.0 tps-wlb-uswest.dvgtm.akadns.net
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps10216.doubleverify.com
@@ -36978,7 +36971,6 @@
 0.0.0.0 twoje-nagrody.pl
 0.0.0.0 twojszczesliwydzien.com
 0.0.0.0 twotreymedia10001697.o18.click
-0.0.0.0 twu-hwt.org
 0.0.0.0 twyn.com
 0.0.0.0 tx.5.p2l.info
 0.0.0.0 tx.micro.net.pk
@@ -41383,6 +41375,7 @@
 0.0.0.0 www.zephyrvineky.online
 0.0.0.0 www.zergnet.com
 0.0.0.0 www.zevents.com
+0.0.0.0 www.zhikey.com
 0.0.0.0 www.zippylakeri.name
 0.0.0.0 www.zww.ero-advertising.com
 0.0.0.0 www.zytpirwai.net
