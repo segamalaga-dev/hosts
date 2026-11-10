@@ -1,6 +1,6 @@
-# Personal Android hosts selection; built 2026-11-10 13:32 UTC
+# Personal Android hosts selection; built 2026-11-10 23:48 UTC
 # Upstream: https://github.com/StevenBlack/hosts.git (commit 681b61eceef1)
-# Unique blocked domains: 32210
+# Unique blocked domains: 32208
 # Sources and original URLs (retained for attribution):
 # StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # adaway.org: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -991,7 +991,6 @@
 0.0.0.0 abc-ads.com
 0.0.0.0 abc.hb-api.omtrdc.net
 0.0.0.0 abc.hb.omtrdc.net
-0.0.0.0 abc.highpnk.life
 0.0.0.0 abcd.mdc.akamaized.net
 0.0.0.0 abchina.fr
 0.0.0.0 abclnks.com
@@ -3669,7 +3668,6 @@
 0.0.0.0 adtrak.net
 0.0.0.0 adtrk1.com
 0.0.0.0 adtrue.com
-0.0.0.0 adubuildersco.com
 0.0.0.0 adult.foxcounter.com
 0.0.0.0 adult.shengen.ru
 0.0.0.0 adultadvertising.com
@@ -6682,6 +6680,7 @@
 0.0.0.0 bneadoptionstaging.112.2o7.net
 0.0.0.0 bnebnedfdcprod.112.2o7.net
 0.0.0.0 bnebnefdcdev.112.2o7.net
+0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 bnet.playm8ru.win
 0.0.0.0 bnk30livejs.112.2o7.net
 0.0.0.0 bnkholic.112.2o7.net
@@ -7783,7 +7782,6 @@
 0.0.0.0 cdn.exelator.com
 0.0.0.0 cdn.exp.pandora.net
 0.0.0.0 cdn.fastclick.net
-0.0.0.0 cdn.file6.goodid.com
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.flashtalking.com.edgekey.net
 0.0.0.0 cdn.flurry.com
@@ -8063,6 +8061,7 @@
 0.0.0.0 centricaplc.tt.omtrdc.net
 0.0.0.0 cepde.org
 0.0.0.0 cephalexin.ourtablets.com
+0.0.0.0 ceramicasaosebastiao.com.br
 0.0.0.0 ceres.iad-03.braze.com
 0.0.0.0 ceridianhcm.tt.omtrdc.net
 0.0.0.0 ceromobi.club
@@ -8737,6 +8736,7 @@
 0.0.0.0 cmytuok.top
 0.0.0.0 cn.adserver.yahoo.com
 0.0.0.0 cn.cyclingnews.com
+0.0.0.0 cn.unionlever.com
 0.0.0.0 cn1.stadiumgoods.com
 0.0.0.0 cn2.stadiumgoods.com
 0.0.0.0 cname.leadzu.com
@@ -8839,7 +8839,6 @@
 0.0.0.0 cointraffic.io
 0.0.0.0 coinurl.com
 0.0.0.0 coinverti.com
-0.0.0.0 coinworknew.com
 0.0.0.0 coinzilla.io
 0.0.0.0 coinzillatag.com
 0.0.0.0 col-med.com
@@ -10209,7 +10208,6 @@
 0.0.0.0 demdex.net
 0.0.0.0 demetnagement.com
 0.0.0.0 demo.alphonso.tv
-0.0.0.0 demo.eugas8job.online
 0.0.0.0 demo.himaxwell.com
 0.0.0.0 demo1.lerian-nti.be
 0.0.0.0 demr.mspaceads.com
@@ -10366,6 +10364,7 @@
 0.0.0.0 dgm2.com
 0.0.0.0 dgmaustralia.com
 0.0.0.0 dgyu536ds.appspot.com
+0.0.0.0 dh.1121103.xyz
 0.0.0.0 dhauzja511.co.cc
 0.0.0.0 dhcpserver.net
 0.0.0.0 dhg-logging.us-east-1.elasticbeanstalk.com
@@ -10615,7 +10614,6 @@
 0.0.0.0 dojo.phluant.com
 0.0.0.0 dolodos.top
 0.0.0.0 dolohen.com
-0.0.0.0 dolphsa.cloud
 0.0.0.0 domain-control.net
 0.0.0.0 domaine-voyance.fr
 0.0.0.0 domaining.in
@@ -10635,6 +10633,7 @@
 0.0.0.0 donotwatch.org
 0.0.0.0 dontacos.fr
 0.0.0.0 dontwatch.us
+0.0.0.0 donutclient.de
 0.0.0.0 donutsmpclient.net
 0.0.0.0 donval.112.2o7.net
 0.0.0.0 doodle.oewabox.at
@@ -11431,7 +11430,6 @@
 0.0.0.0 emm.us.puma.com
 0.0.0.0 emodoinc.com
 0.0.0.0 emonitoring-paczki.pl
-0.0.0.0 empergr.qpon
 0.0.0.0 emperors.bunkerhilltradingco.info
 0.0.0.0 employ22.112.2o7.net
 0.0.0.0 employ26.112.2o7.net
@@ -12709,7 +12707,6 @@
 0.0.0.0 ftdownload.com
 0.0.0.0 ftn.fortuneo.fr
 0.0.0.0 ftp.dns-info.dyndns.pro
-0.0.0.0 ftp.vietnam852.com
 0.0.0.0 ftpadmin.edv-stumpf.de
 0.0.0.0 ftpcontent.worldnow.com
 0.0.0.0 fu.golikeus.net
@@ -12818,6 +12815,7 @@
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gadsbee.com
 0.0.0.0 gadzooksrudely.com
+0.0.0.0 gaenterprises.in
 0.0.0.0 gag.admulti.com
 0.0.0.0 gagy.fr
 0.0.0.0 gahu.hit.gemius.pl
@@ -14769,7 +14767,6 @@
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 hnfwg.voluumtrk.com
 0.0.0.0 hobbes.blueoxtech.com
-0.0.0.0 hobobot.net
 0.0.0.0 hocgeese.com
 0.0.0.0 hocolats-voisin.fr
 0.0.0.0 hofmann-es.eulerian.net
@@ -17326,6 +17323,7 @@
 0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.livejasmin.com
 0.0.0.0 m.loopme.me
+0.0.0.0 m.meta-dm.com
 0.0.0.0 m.mixadvert.com
 0.0.0.0 m.openv.tv
 0.0.0.0 m.pl.pornzone.tv
@@ -18884,6 +18882,7 @@
 0.0.0.0 n.ads5-adnow.com
 0.0.0.0 n.gameads.io
 0.0.0.0 n.systemlog.me
+0.0.0.0 n.vs108.com
 0.0.0.0 n01d05.cumulus-cloud.com
 0.0.0.0 n1.nskfyl.com
 0.0.0.0 n13x4nfw8frika.com
@@ -20626,7 +20625,6 @@
 0.0.0.0 pickytime.com
 0.0.0.0 picture-uploads.com
 0.0.0.0 pictures-album.com
-0.0.0.0 pictureurl.com
 0.0.0.0 pidoco.fr
 0.0.0.0 pie.wirelessregistry.com
 0.0.0.0 piecediscount24.fr
@@ -22455,6 +22453,7 @@
 0.0.0.0 runtnc.net
 0.0.0.0 rup5.destinia.ru
 0.0.0.0 ruralrobin.com
+0.0.0.0 rush360.net
 0.0.0.0 russian-sex.com
 0.0.0.0 rustdesk.co.nz
 0.0.0.0 rustdesk.io
@@ -22803,6 +22802,7 @@
 0.0.0.0 sagent.io
 0.0.0.0 saicmotor.fr
 0.0.0.0 sail-horizon.com
+0.0.0.0 sail91.com
 0.0.0.0 sajour.fr
 0.0.0.0 saksfifthavenue.122.2o7.net
 0.0.0.0 salebestever.su
@@ -25516,7 +25516,6 @@
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.adtima.vn
 0.0.0.0 stc.gammaplatform.com
-0.0.0.0 stdown.dinju.com
 0.0.0.0 ste.siemens-healthineers.cloud
 0.0.0.0 steadfastseat.com
 0.0.0.0 steadfastsound.com
@@ -27929,6 +27928,7 @@
 0.0.0.0 utrace.fr
 0.0.0.0 uts.kingoapp.com
 0.0.0.0 uu.domainforlite.com
+0.0.0.0 uu.v2raynapps.com.cn
 0.0.0.0 uvimage.56.com
 0.0.0.0 uvzrtq.livingspaces.com
 0.0.0.0 uw.evm1.stackadapt.com
@@ -30319,6 +30319,7 @@
 0.0.0.0 www.homewares.org
 0.0.0.0 www.homininfossil.cfd
 0.0.0.0 www.hooqy.com
+0.0.0.0 www.hostingcloud.science
 0.0.0.0 www.hostingfreelife.com
 0.0.0.0 www.hotchatdate.com
 0.0.0.0 www.hotelsdetermine.bond
@@ -30791,7 +30792,6 @@
 0.0.0.0 www.ogopond.com
 0.0.0.0 www.oilbasics.com
 0.0.0.0 www.oix.com
-0.0.0.0 www.ojang.pe.kr
 0.0.0.0 www.okhan.net
 0.0.0.0 www.oletipmegroup.com
 0.0.0.0 www.olimpgokart.com
@@ -31824,7 +31824,6 @@
 0.0.0.0 xenical.1.p2l.info
 0.0.0.0 xenical.3.p2l.info
 0.0.0.0 xenical.4.p2l.info
-0.0.0.0 xeno.baby
 0.0.0.0 xenon.studio
 0.0.0.0 xenonclient.com
 0.0.0.0 xerolimited.tt.omtrdc.net
@@ -32207,7 +32206,6 @@
 0.0.0.0 zucks.net
 0.0.0.0 zug.sbb.ch
 0.0.0.0 zulu.r867qq.net
-0.0.0.0 zumvu.net
 0.0.0.0 zvatrswtsrw.ml
 0.0.0.0 zwaar.org
 0.0.0.0 zww.ero-advertising.com
