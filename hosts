@@ -1,6 +1,6 @@
-# Personal Android hosts selection; built 2026-11-11 15:24 UTC
+# Personal Android hosts selection; built 2026-11-11 18:25 UTC
 # Upstream: https://github.com/StevenBlack/hosts.git (commit 681b61eceef1)
-# Unique blocked domains: 32212
+# Unique blocked domains: 32211
 # Sources and original URLs (retained for attribution):
 # StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # adaway.org: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -10669,6 +10669,7 @@
 0.0.0.0 down.fwqlt.com
 0.0.0.0 down.pcclear.com
 0.0.0.0 down.sqlnetcat.com
+0.0.0.0 down.stellarcedar.live
 0.0.0.0 downgradeproduct.com
 0.0.0.0 download-shares.com
 0.0.0.0 download.caihong.com
@@ -10814,7 +10815,6 @@
 0.0.0.0 dw.adyboh.com
 0.0.0.0 dw7u.hotelsbarriere.com
 0.0.0.0 dwclick.com
-0.0.0.0 dxa.rewan.live
 0.0.0.0 dxb.rewan.live
 0.0.0.0 dxpxgy.jdsports.com
 0.0.0.0 dy.admerize.be
@@ -11634,7 +11634,6 @@
 0.0.0.0 espub.fr
 0.0.0.0 essaygiants.com
 0.0.0.0 estatearea.net
-0.0.0.0 estudio315.com.br
 0.0.0.0 esty.com
 0.0.0.0 et-1nt3rc.com
 0.0.0.0 et-eus.w.inmobi.com
@@ -14895,7 +14894,6 @@
 0.0.0.0 hswmedia.122.2o7.net
 0.0.0.0 ht-srl.com
 0.0.0.0 ht.adups.com
-0.0.0.0 htdentshop.com
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 htlb.casalemedia.com.edgekey.net
 0.0.0.0 htlbid.com
@@ -17275,6 +17273,7 @@
 0.0.0.0 lubet.api.new.livejasmin.com
 0.0.0.0 lubet.modelcenter.livejasmin.com
 0.0.0.0 lubet.www.livejasmin.com
+0.0.0.0 lucas.cptz.wtf
 0.0.0.0 lucent.122.2o7.net
 0.0.0.0 lucidmedia.com
 0.0.0.0 lucker.co
@@ -17327,7 +17326,6 @@
 0.0.0.0 m.friendlyduck.com
 0.0.0.0 m.ib.sin1.geoadnxs.com
 0.0.0.0 m.irs01.com
-0.0.0.0 m.jkoa.co.kr
 0.0.0.0 m.livejasmin.com
 0.0.0.0 m.loopme.me
 0.0.0.0 m.meta-dm.com
@@ -19747,7 +19745,6 @@
 0.0.0.0 ohmydating.com
 0.0.0.0 oi8ytfzxa.appspot.com
 0.0.0.0 oiat.dow.com
-0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 ois.is
 0.0.0.0 oiseau-perdu.fr
@@ -20091,6 +20088,7 @@
 0.0.0.0 outerinfo.com
 0.0.0.0 outerwords.com
 0.0.0.0 outils.yesmessenger.com
+0.0.0.0 outpost.co.ke
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overflow.adsoftware.com
 0.0.0.0 overkick.com
@@ -26786,7 +26784,6 @@
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpciletsgo.112.2o7.net
-0.0.0.0 tpp.om-stock.com
 0.0.0.0 tps-wlb-uswest.dvgtm.akadns.net
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps10216.doubleverify.com
@@ -28976,6 +28973,7 @@
 0.0.0.0 williamhill.es
 0.0.0.0 willysy.com
 0.0.0.0 win.iqm.com
+0.0.0.0 winbitbrowser.com
 0.0.0.0 wind.windmilldrops.com
 0.0.0.0 windomstatetheater.com
 0.0.0.0 window.nixnet.cz
@@ -29510,6 +29508,7 @@
 0.0.0.0 www.ase.clmbtech.com
 0.0.0.0 www.asianread.com
 0.0.0.0 www.assistdocklane.uk
+0.0.0.0 www.astenterprises.com.pk
 0.0.0.0 www.astute-7-visionary.com
 0.0.0.0 www.astuteinnovative-operation.com
 0.0.0.0 www.ata.ero-advertising.com
