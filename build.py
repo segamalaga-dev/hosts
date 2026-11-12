@@ -25,12 +25,13 @@ SOURCES = (
 )
 # External sources supplement upstream StevenBlack; they are deduplicated below.
 FROGEYE_URL = "https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt"
+SOMEONEWHOCARES_URL = "https://someonewhocares.org/hosts/zero/hosts"
 # The Auth-Key is passed through the Actions secret URLHAUS_AUTH_KEY.
 URLHAUS_TEMPLATE = "https://urlhaus-api.abuse.ch/v2/files/exports/{key}/hostfile.txt"
 MAX_TOTAL_DOMAINS = 55000
 
 
-def load_external_hosts(url, source, max_source_domains):
+def load_external_hosts(url, source, max_source_domains, min_source_domains=10):
     """Read a hosts/plain-domains feed. Never print authenticated URLs."""
     if not url.startswith("https://"):
         raise RuntimeError(source + ": HTTPS is required")
@@ -69,7 +70,7 @@ def load_external_hosts(url, source, max_source_domains):
                 domains.add(domain)
             else:
                 malformed += 1
-    if not (10 <= len(domains) <= max_source_domains):
+    if not (min_source_domains <= len(domains) <= max_source_domains):
         raise RuntimeError(f"{source}: unexpected domain count ({len(domains)})")
     if malformed > max(50, len(domains) // 20):
         raise RuntimeError(f"{source}: unexpectedly many malformed entries ({malformed})")
@@ -101,8 +102,19 @@ def main():
         if missing:
             raise RuntimeError("Selected upstream sources are missing: " + ", ".join(sorted(missing)))
 
-        # Use the source snapshots from this upstream commit. This avoids mixing
-        # one source updated today with another that could not be downloaded.
+        # Replace just this snapshot with the validated live feed. If the feed
+        # cannot be retrieved or validated, abort before publishing either file.
+        someonewhocares = load_external_hosts(
+            SOMEONEWHOCARES_URL, "SomeoneWhoCares", 30000, min_source_domains=1000
+        )
+        source_hosts = data / "someonewhocares.org" / "hosts"
+        source_hosts.write_text(
+            "".join("0.0.0.0 " + domain + "\n" for domain in sorted(someonewhocares)),
+            encoding="utf-8",
+        )
+        print(f"SomeoneWhoCares: {len(someonewhocares)} domains downloaded directly")
+
+        # All other selected sources remain the snapshots from this commit.
         subprocess.run(
             [sys.executable, "updateHostsFile.py", "--auto", "--noupdate", "--nogendata", "--skipstatichosts"],
             cwd=repo, check=True, stdout=subprocess.DEVNULL, env=clean_env,
@@ -153,7 +165,9 @@ def main():
             "# Sources and original URLs (retained for attribution):",
         ]
         for name, info in zip(SOURCES, metadata):
-            header.append("# " + name + ": " + info["url"])
+            url = SOMEONEWHOCARES_URL if name == "someonewhocares.org" else info["url"]
+            header.append("# " + name + ": " + url)
+        header.append("# SomeoneWhoCares downloaded directly at build time; other selected sources use the upstream snapshot.")
         header.append("# Frogeye: https://hostfiles.frogeye.fr/")
         if key:
             header.append("# URLhaus: https://urlhaus.abuse.ch/api/")
@@ -185,7 +199,11 @@ def main():
             "# Upstream: " + UPSTREAM + " (commit " + commit + ")",
             "# Source attribution and original URLs:",
         ]
-        windows_header += ["# " + name + ": " + info["url"] for name, info in zip(SOURCES, metadata)]
+        windows_header += [
+            "# " + name + ": " + (SOMEONEWHOCARES_URL if name == "someonewhocares.org" else info["url"])
+            for name, info in zip(SOURCES, metadata)
+        ]
+        windows_header.append("# SomeoneWhoCares downloaded directly at build time; other selected sources use the upstream snapshot.")
         windows_header.append("# Frogeye: https://hostfiles.frogeye.fr/")
         if key:
             windows_header.append("# URLhaus: https://urlhaus.abuse.ch/api/")
@@ -206,3 +224,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
