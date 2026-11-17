@@ -1,6 +1,6 @@
-# Personal Android hosts selection; built 2026-11-17 07:30 UTC
+# Personal Android hosts selection; built 2026-11-17 23:39 UTC
 # Upstream: https://github.com/StevenBlack/hosts.git (commit ce25ce24d6dc)
-# Unique blocked domains: 42428
+# Unique blocked domains: 42421
 # Sources and original URLs (retained for attribution):
 # StevenBlack: https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts
 # adaway.org: https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -1226,7 +1226,6 @@
 0.0.0.0 access.chathamfinancial.com
 0.0.0.0 access.incapital.com
 0.0.0.0 accessfreevpn.com
-0.0.0.0 accesstelematics.com
 0.0.0.0 acckalaharinet.112.2o7.net
 0.0.0.0 accomodation-tastes.net
 0.0.0.0 account-review.com
@@ -1244,7 +1243,6 @@
 0.0.0.0 accrogers-overview.com
 0.0.0.0 accstandardbank.tt.omtrdc.net
 0.0.0.0 accutrain.actonservice.com
-0.0.0.0 acd.munber.life
 0.0.0.0 acdn.adnxs-simple.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 ace-tag.advertising.com
@@ -1934,6 +1932,7 @@
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adcell.de
 0.0.0.0 adcenter.net
+0.0.0.0 adcentral.com.mx
 0.0.0.0 adcentric.randomseed.com
 0.0.0.0 adcentriconline.com
 0.0.0.0 adcfg.intowow.com
@@ -4185,7 +4184,6 @@
 0.0.0.0 airmilesrewardprogram.112.2o7.net
 0.0.0.0 airplanecoffee.com
 0.0.0.0 airpush.com
-0.0.0.0 airwayhost.com
 0.0.0.0 aiservicenowintegprd.112.2o7.net
 0.0.0.0 aistat.net
 0.0.0.0 ajanlom-magamat.com
@@ -5216,7 +5214,6 @@
 0.0.0.0 api.sprig.com
 0.0.0.0 api.stathat.com
 0.0.0.0 api.stats.appa.pe
-0.0.0.0 api.stellarcedar.live
 0.0.0.0 api.survicate.com
 0.0.0.0 api.swetrix.com
 0.0.0.0 api.swrve.com
@@ -5827,7 +5824,6 @@
 0.0.0.0 ata.ero-advertising.com
 0.0.0.0 atarget.harley-davidson.com
 0.0.0.0 atarget.santanderbank.com
-0.0.0.0 atasapka.com.tr
 0.0.0.0 atdmt.com
 0.0.0.0 atedra.com
 0.0.0.0 atemda.com
@@ -6842,8 +6838,8 @@
 0.0.0.0 bjdata.ads.oppomobile.com
 0.0.0.0 bjfesdk.douyucdn.cn
 0.0.0.0 bjsrestaurants.tt.omtrdc.net
-0.0.0.0 bjyunte.com
 0.0.0.0 bk.r-ad.ne.jp
+0.0.0.0 bkktech-thai.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bkrtx.com.edgekey.net
 0.0.0.0 bkt.clouddn.com
@@ -6900,7 +6896,6 @@
 0.0.0.0 blogtoplist.se
 0.0.0.0 blogtopsites.com
 0.0.0.0 blogvertising.pl
-0.0.0.0 bloodcheat.com
 0.0.0.0 bloodsugarberry.com
 0.0.0.0 bloodsugrs.shop
 0.0.0.0 bloom-88.com
@@ -7017,6 +7012,7 @@
 0.0.0.0 bootstrap.upsight-api.com
 0.0.0.0 bootsuk.tt.omtrdc.net
 0.0.0.0 bopstermedia56.com
+0.0.0.0 boramar.es
 0.0.0.0 borders.112.2o7.net
 0.0.0.0 boredcrown.com
 0.0.0.0 bornprix.fr
@@ -8117,6 +8113,7 @@
 0.0.0.0 cdn.hauleddes.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.hot-mob.com
+0.0.0.0 cdn.hypstock.info
 0.0.0.0 cdn.iads.unity3d.com
 0.0.0.0 cdn.id5-sync.com
 0.0.0.0 cdn.imhd.io
@@ -10096,7 +10093,6 @@
 0.0.0.0 ctziogas.gr
 0.0.0.0 cu-cn-north00001.gala.convection.cn
 0.0.0.0 cu-cn-north00002.gala.convection.cn
-0.0.0.0 cube-60.com
 0.0.0.0 cuder.fr
 0.0.0.0 cue4you.nl
 0.0.0.0 cuebiq.com
@@ -10295,7 +10291,6 @@
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 damageddistance.com
 0.0.0.0 damdoor.com
-0.0.0.0 damiancollier.com
 0.0.0.0 danbo.org
 0.0.0.0 danger-phentermine.allforyourlife.com
 0.0.0.0 danskebank.tt.omtrdc.net
@@ -11001,7 +10996,6 @@
 0.0.0.0 dko.vente-unique.nl
 0.0.0.0 dl-stage.zola.com
 0.0.0.0 dl.document.cigna.com
-0.0.0.0 dl.dzqzd.com
 0.0.0.0 dl.fotoable.com
 0.0.0.0 dl.ijinshan.com
 0.0.0.0 dl.natgo.cn
@@ -11138,7 +11132,6 @@
 0.0.0.0 dowjones.hb-api.omtrdc.net
 0.0.0.0 dowjones.hb.omtrdc.net
 0.0.0.0 down.fwqlt.com
-0.0.0.0 down.pcclear.com
 0.0.0.0 down.qqfarmer.com.cn
 0.0.0.0 down.sqlnetcat.com
 0.0.0.0 down.stellarcedar.live
@@ -12098,7 +12091,6 @@
 0.0.0.0 en.btc-trader-app.club
 0.0.0.0 en.btcprofit.we-trck.com
 0.0.0.0 en.likefever.org
-0.0.0.0 en.taichuan.com
 0.0.0.0 en.ultrex.ru
 0.0.0.0 en.xachinaproject.fun
 0.0.0.0 enablement.joethecpa.info
@@ -12891,6 +12883,7 @@
 0.0.0.0 farm.plista.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 farmius.org
+0.0.0.0 farmutils.com
 0.0.0.0 fashion-online.net
 0.0.0.0 fashionation01.webtrekk.net
 0.0.0.0 fashioncontainer.net
@@ -13065,12 +13058,14 @@
 0.0.0.0 file-shares.com
 0.0.0.0 file.blackint3.com
 0.0.0.0 file.ipinyou.com.cn
+0.0.0.0 file.uhsea.com
 0.0.0.0 filedrive.nocoshop.ru
 0.0.0.0 filedrive.uploadbox.world
 0.0.0.0 filekeeper.nocoshop.ru
 0.0.0.0 filekeeper.topupload.ru
 0.0.0.0 filerit.com
 0.0.0.0 files-downloads.com
+0.0.0.0 files.trade4rex.com
 0.0.0.0 files.ukr.net.ssl2.in
 0.0.0.0 fileshare-storage.com
 0.0.0.0 filestation.nocoshop.ru
@@ -14038,7 +14033,6 @@
 0.0.0.0 geoxsecurity.ro
 0.0.0.0 gepowerandwater.tt.omtrdc.net
 0.0.0.0 gerryweb02.webtrekk.net
-0.0.0.0 gestroom.it
 0.0.0.0 get-answers-fast.com
 0.0.0.0 get-downloads.com
 0.0.0.0 get-express-vpn.com
@@ -15832,6 +15826,7 @@
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 hnfwg.voluumtrk.com
 0.0.0.0 hobbes.blueoxtech.com
+0.0.0.0 hobobot.net
 0.0.0.0 hocgeese.com
 0.0.0.0 hocolats-voisin.fr
 0.0.0.0 hofmann-es.eulerian.net
@@ -16973,7 +16968,6 @@
 0.0.0.0 intelcorperror.112.2o7.net
 0.0.0.0 intelcorpsupp.112.2o7.net
 0.0.0.0 intelglobal.112.2o7.net
-0.0.0.0 intelli-sys.co.zw
 0.0.0.0 intelliads.com
 0.0.0.0 intelligence-head.pinsightmedia.com
 0.0.0.0 intelligence.tt.omtrdc.net
@@ -17571,6 +17565,7 @@
 0.0.0.0 kaartenhuis.nl.site-id.nl
 0.0.0.0 kabookk.fr
 0.0.0.0 kaboose.112.2o7.net
+0.0.0.0 kafeprog7.com
 0.0.0.0 kaffnet.com
 0.0.0.0 kaharmonie.nl
 0.0.0.0 kaidee.info
@@ -20524,7 +20519,6 @@
 0.0.0.0 misterspex01.wt-eu02.net
 0.0.0.0 mit.db.com
 0.0.0.0 mitchell1.actonsoftware.com
-0.0.0.0 mitreart.com
 0.0.0.0 mitsubishi.112.2o7.net
 0.0.0.0 mitsubishielectric.112.2o7.net
 0.0.0.0 mittencattle.com
@@ -20860,7 +20854,6 @@
 0.0.0.0 mrazens.com
 0.0.0.0 mre6.destinia.ma
 0.0.0.0 mrskincash.com
-0.0.0.0 mrsweaterltd.com
 0.0.0.0 mrtb-nj.lfstmedia.com
 0.0.0.0 mrtbmopub-nj.lfstmedia.com
 0.0.0.0 mrtg.hitbox.com
@@ -23726,6 +23719,7 @@
 0.0.0.0 normalseason.com
 0.0.0.0 nortelcom.112.2o7.net
 0.0.0.0 northerntool.tt.omtrdc.net
+0.0.0.0 northernvirginiaeyeassociates.com
 0.0.0.0 northjersey.112.2o7.net
 0.0.0.0 northwestairlines.112.2o7.net
 0.0.0.0 northwesternmutual.com.102.122.2o7.net
@@ -24968,7 +24962,6 @@
 0.0.0.0 ohmydating.com
 0.0.0.0 oi8ytfzxa.appspot.com
 0.0.0.0 oiat.dow.com
-0.0.0.0 oim.doganltd.com.tr
 0.0.0.0 oimsgad.qq.com
 0.0.0.0 ois.is
 0.0.0.0 oiseau-perdu.fr
@@ -29457,6 +29450,7 @@
 0.0.0.0 reservationszone.com
 0.0.0.0 resetcibc-logincibc.com
 0.0.0.0 resgermany01.webtrekk.net
+0.0.0.0 reshow35.com
 0.0.0.0 residence.bunkerhilltradingco.info
 0.0.0.0 resize.mantisadnetwork.com
 0.0.0.0 resizer.mantisadnetwork.com
@@ -29626,6 +29620,7 @@
 0.0.0.0 robertgraham.fr
 0.0.0.0 roberthalfintl.tt.omtrdc.net
 0.0.0.0 robertrowe.com
+0.0.0.0 robloxscript.top
 0.0.0.0 roboinside.me
 0.0.0.0 robot.royalcactus.com
 0.0.0.0 robotrefinery.com
@@ -31144,6 +31139,7 @@
 0.0.0.0 sg3.beap.gemini.yahoo.com
 0.0.0.0 sgbid.prod.sift.co
 0.0.0.0 sgfw.adsafeprotected.com
+0.0.0.0 sgivertise.xyz
 0.0.0.0 sgluco.shop
 0.0.0.0 sgp.o2o.api.xiaomi.com
 0.0.0.0 sgp.smartadserver.com
@@ -31205,6 +31201,7 @@
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shinystat.shiny.it
+0.0.0.0 shipminttracking.net
 0.0.0.0 shiveringspot.com
 0.0.0.0 shiverscissors.com
 0.0.0.0 shoalike.fr
@@ -35264,7 +35261,6 @@
 0.0.0.0 stc-nas.nixcdn.com
 0.0.0.0 stc.adtima.vn
 0.0.0.0 stc.gammaplatform.com
-0.0.0.0 stdown.dinju.com
 0.0.0.0 ste.siemens-healthineers.cloud
 0.0.0.0 steadfastseat.com
 0.0.0.0 steadfastsound.com
@@ -35367,7 +35363,6 @@
 0.0.0.0 streamboo.com
 0.0.0.0 streamdiag.livejasmin.com
 0.0.0.0 streamguys.deliveryengine.adswizz.com
-0.0.0.0 streammobs.com
 0.0.0.0 stretchsquirrel.com
 0.0.0.0 strikeiron.com
 0.0.0.0 stripchat.com
@@ -36572,7 +36567,6 @@
 0.0.0.0 tpbid.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpciletsgo.112.2o7.net
-0.0.0.0 tpp.om-stock.com
 0.0.0.0 tps-wlb-uswest.dvgtm.akadns.net
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps10216.doubleverify.com
@@ -37303,6 +37297,7 @@
 0.0.0.0 txdot.tt.omtrdc.net
 0.0.0.0 txfryh.terra.com.br
 0.0.0.0 txn.ingest.crittercism.com
+0.0.0.0 txt.fixlow.shop
 0.0.0.0 txuenergy.tt.omtrdc.net
 0.0.0.0 txv0.destinia.hu
 0.0.0.0 ty65xcc-smart-manatee.mybluemix.net
@@ -37509,6 +37504,7 @@
 0.0.0.0 unloadyourself.com
 0.0.0.0 unme-asso.fr
 0.0.0.0 unodieuxconnard.fr
+0.0.0.0 unojoin.com
 0.0.0.0 unonoticias.net
 0.0.0.0 unruly-match.dotomi.com
 0.0.0.0 unruly.co
@@ -39756,7 +39752,6 @@
 0.0.0.0 www.contextuads.com
 0.0.0.0 www.contextweb.com
 0.0.0.0 www.continuedlincoln.bond
-0.0.0.0 www.controliumbt.com
 0.0.0.0 www.controlpop.com
 0.0.0.0 www.conversantmedia.com
 0.0.0.0 www.cookingtiprewards.com
@@ -41219,7 +41214,6 @@
 0.0.0.0 www.s7.adaces.ero-advertising.com
 0.0.0.0 www.sa44.net
 0.0.0.0 www.sadostic.pl
-0.0.0.0 www.saf-oil.ru
 0.0.0.0 www.sagent.io
 0.0.0.0 www.sailpirate.com
 0.0.0.0 www.saintmc.com
@@ -42222,7 +42216,6 @@
 0.0.0.0 yourbestclothes.com
 0.0.0.0 yourbestwoman.life
 0.0.0.0 yourdailytrailer.yournewtab.com
-0.0.0.0 youreonlymassive.com
 0.0.0.0 yourgascards.com
 0.0.0.0 yourgiftrewards.com
 0.0.0.0 yourgiftzone.com
